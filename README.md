@@ -23,7 +23,8 @@
   - [Counting_sheep...](solutions/8kyu/Counting_sheep...)
   - [You_only_need_one_Beginner](solutions/8kyu/You_only_need_one_Beginner)
   - [Remove_String_Spaces](solutions/8kyu/Remove_String_Spaces)
-  
+
 - 7kyu
+  - [Disemvowel_Trolls](solutions/7kyu/Disemvowel_Trolls)
 
 ---
